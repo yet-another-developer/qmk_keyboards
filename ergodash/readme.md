@@ -1,5 +1,7 @@
 # ErgoDash
 
+<script src="https://gist.github.com/yet-another-developer/8676e7a1abf52d6d96f0e2d9731bfb85.js"></script>
+
 ![ErgoDash](https://github.com/omkbd/picture/blob/master/Ergodash.jpg)
 
 Keyboard Maintainer: [omkbd](https://github.com/omkbd) [@omkbd](https://twitter.com/omkbd)  
